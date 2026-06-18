@@ -100,7 +100,7 @@ cd server
 
 npm install
 
-npm start
+npm start / node index.js
 
 ## Environment Variables
 
